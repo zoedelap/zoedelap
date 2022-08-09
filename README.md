@@ -1,4 +1,5 @@
 # Welcome! I'm Zoe :yellow_heart:
+<img src="https://github.com/zoedelap/zoedelap/blob/main/readme-img.gif" align="right" width="30%"> 
 <div id="badges">
   <a href="https://www.linkedin.com/in/zoedelap/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
