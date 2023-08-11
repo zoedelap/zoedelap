@@ -13,7 +13,8 @@ I am an aspiring software dev, curious mind, and lover of all things programming
 - TypeScript with React
 - SQL
 - Python
-- 
+- PHP
+- Java
 
 ### Off the Keyboard
 - Dog lover :dog:
