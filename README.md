@@ -9,26 +9,16 @@
 ### The TLDR
 I am an aspiring software dev, curious mind, and lover of all things programming. I'm passionate about improving my skills and writing code that is readable and maintainable! 
 
-### Things I'm Learning
-<ul>
-  <li>PHP</li>
-  <li>React</li> 
-  <li>Intermediate SQL</li> 
-</ul>
-
-### Things I Know
-<ul>
-  <li>Python</li>
-  <li>Java</li>
-  <li>Beginner SQL</li>  
-</ul>
+### Skills
+- TypeScript with React
+- SQL
+- Python
+- 
 
 ### Off the Keyboard
-<ul>
-  <li>Dog lover :dog:</li>
-  <li>Extrovert :smile:</li>
-  <li>Coffee Enthusiast :coffee:</li>
-</ul>
+- Dog lover :dog:
+- Extrovert :smile:
+- Coffee Enthusiast :coffee:
 
 
 <!--
