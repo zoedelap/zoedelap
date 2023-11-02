@@ -2,7 +2,10 @@
 <img src="https://github.com/zoedelap/zoedelap/blob/main/readme-img.gif" align="right" width="30%"> 
 <div id="badges">
   <a href="https://www.linkedin.com/in/zoedelap/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30px/>
+  </a>
+  <a href="https://zoedelap.itch.io/">
+  <img src="https://github.com/zoedelap/zoedelap/assets/73131522/afa7cb41-09ce-4684-b2d6-be212b1d9bfb" alt="Itch.io Badge" height="30px" padding="10px"/>
   </a>
 </div>
 
