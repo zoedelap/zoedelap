@@ -1,13 +1,7 @@
 # Welcome! I'm Zoe :yellow_heart:
 <img src="https://github.com/zoedelap/zoedelap/blob/main/readme-img.gif" align="right" width="30%"> 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/zoedelap/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30px/>
-  </a>
-  <a href="https://zoedelap.itch.io/">
-    <img src="https://github.com/zoedelap/zoedelap/assets/73131522/afa7cb41-09ce-4684-b2d6-be212b1d9bfb" alt="Itch Badge" height="30px"/>
-  </a>
-</div>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zoedelap/) [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://zoedelap.itch.io/)
 
 ### The TLDR
 I am an aspiring software dev, curious mind, and lover of all things programming. I'm passionate about improving my skills and writing code that is readable and maintainable! 
